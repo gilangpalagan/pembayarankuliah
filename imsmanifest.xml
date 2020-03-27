@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6HUHAw5AckA_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">pembayaran kuliah</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="pembayaran_kuliah_ORG">
+    <organization identifier="pembayaran_kuliah_ORG">
+      <title>pembayaran kuliah</title>
+      <item identifier="Slide_Sugar_Examples_v3_SCO" isvisible="true" identifierref="__6HUHAw5AckA_course_id_RES">
+        <title>pembayaran kuliah</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6HUHAw5AckA_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5uSiliwfkep_B-20_RC0CDDC_P_0_875_2000_1125_DX2560_DY2560.swf" />
+      <file href="mobile/5uSiliwfkep_B-20_RC0CDDC_P_0_875_2000_1125_DX2560_DY2560_CX1920_CY1080.png" />
+      <file href="story_content/69yd7Zr4Qvq_22050_56_0.mp3" />
+      <file href="story_content/6cjeRHjtIjo_22050_56_0.mp3" />
+      <file href="story_content/5mTJDB6iPrr_DX784_DY784.swf" />
+      <file href="mobile/5mTJDB6iPrr_DX784_DY784_CX512_CY512.png" />
+      <file href="story_content/6r63WEHr3EL_DX406_DY406.swf" />
+      <file href="mobile/6r63WEHr3EL_DX406_DY406_CX183_CY203.png" />
+      <file href="story_content/6MzrzQWcFYy_DX456_DY456.swf" />
+      <file href="mobile/6MzrzQWcFYy_DX456_DY456_CX342_CY228.png" />
+      <file href="story_content/63ifvaC8Rtr_DX706_DY706.jpg" />
+      <file href="mobile/63ifvaC8Rtr_DX706_DY706_CX529_CY529.jpg" />
+      <file href="story_content/6l4LfWAwqtC_DX400_DY400.swf" />
+      <file href="mobile/6l4LfWAwqtC_DX400_DY400_CX225_CY225.png" />
+      <file href="story_content/5ZAolkqyJhf_DX416_DY416.swf" />
+      <file href="mobile/5ZAolkqyJhf_DX416_DY416_CX312_CY312.png" />
+      <file href="story_content/5nnj1V17ZzP_DX406_DY406.swf" />
+      <file href="mobile/5nnj1V17ZzP_DX406_DY406_CX67_CY203.png" />
+      <file href="story_content/6XjkHCchMor_DX528_DY528.swf" />
+      <file href="mobile/6XjkHCchMor_DX528_DY528_CX396_CY396.png" />
+      <file href="story_content/6rOFh4PnWKW_DX406_DY406.swf" />
+      <file href="mobile/6rOFh4PnWKW_DX406_DY406_CX67_CY203.png" />
+      <file href="story_content/6bHzrcLjjqf_DX176_DY176.swf" />
+      <file href="mobile/6bHzrcLjjqf_DX176_DY176_CX132_CY132.png" />
+      <file href="story_content/6WVKWwVG7Xr_22050_56_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/FontFactory.swf" />
+      <file href="story_content/fonts.swf" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/user.js" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/slides/6OxXvCvP6tq.swf" />
+      <file href="story_content/slides/69JuSgKHh3Y.swf" />
+      <file href="story_content/data.swf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/69JuSgKHh3Y.js" />
+      <file href="html5/data/js/6OxXvCvP6tq.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_flash.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="index_lms_flash.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
